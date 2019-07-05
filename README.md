@@ -1,6 +1,5 @@
 ## Product Introduction
 
-------
 
 ![Cheetah_top](images/AIO_II_TOP.png)
 
@@ -8,7 +7,6 @@ This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-micro
 
 ## Features
 
-------
 
 - Compact size: 105mm x 50mm
 - fully integrated all in one solution:
