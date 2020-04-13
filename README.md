@@ -1,7 +1,7 @@
 ## Product Introduction
 
 
-![Cheetah_top](images/AIO_II_TOP.png)
+![Cheetah_top](https://wiki.fysetc.com/images/AIO_II_TOP.png)
 
 This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-microsteps stepper motor drive for  3DP/CNC or similar machine.It has everything you need to assemble a 3DP, including a display and an SD card holder.
 
