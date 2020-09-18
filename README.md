@@ -84,11 +84,11 @@ The latest configurations are in separate repository [here](https://github.com/M
 
 Open Vscode and open platformio main page and click the "Open Project" button , and direct to the folder where you put your firmware.
 
-![1561099422559](X:\wiki_site\my-project\docs\images\AIO_f1.png)
+![1561099422559](images/AIO_f1.png)
 
 If everything goes fine , at the bottom you can see several buttons
 
-![1561099546202](X:\wiki_site\my-project\docs\images\AIO_f2.png)
+![1561099546202](images\AIO_f2.png)
 
 The check mark is for compiling .
 
@@ -118,7 +118,7 @@ Connect the board and your pc with USB cable (This step should before you open t
 
 Double the click "FlyMcu.exe" software to open it.
 
-![1561100540118](X:\wiki_site\my-project\docs\images\AIO_f3.png)
+![1561100540118](images/AIO_f3.png)
 
 
 
@@ -171,7 +171,7 @@ dmesg
 
 And you will get message like 
 
-![1562654867797](images\AIO_f4.png)
+![1562654867797](images/AIO_f4.png)
 
 the ttyUSB0 is the port to communicate with the motherboard.
 
