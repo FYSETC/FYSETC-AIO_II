@@ -183,13 +183,13 @@ And then go the the firmware.hex file location directory and do the follow comma
 
 ## Attachments
 ------
-- [Schematic files](https://github.com/AIO_II/)
-- [PCB files](https://github.com/FYSETC/AIO_II/)
-- [2D and 3D drawings](https://github.com/FYSETC/AIO_II/)
+- [Schematic files](https://github.com/FYSETC-AIO_II/)
+- [PCB files](https://github.com/FYSETC/FYSETC-AIO_II/)
+- [2D and 3D drawings](https://github.com/FYSETC/FYSETC-AIO_II/)
 
 ## Where to Buy
 ------
-- [FYSETC AIO II V3.1](https://www.aliexpress.com/item/32911155606.html)
+- [FYSETC AIO II V3.1](https://www.aliexpress.com/item/32888370577.html)
 
 ## Tech Support
 -------
