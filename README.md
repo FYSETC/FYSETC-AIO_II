@@ -30,15 +30,11 @@ This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-micro
 
 ## Application
 
-------
-
 - 3D printer 
 - CNC Machines
 - Other similar machines
 
 ## Hardware Reasources
-
-------
 
 | Board Name           | AIO II                                |
 | -------------------- | ------------------------------------- |
@@ -60,14 +56,21 @@ This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-micro
 | Input                | 7-35 V 15A Max；                      |
 | Output               | BED OUT：10A Max ；Heater Out：5A Max |
 
-## Pin Definition
-------
-##### Connector define：
+### Pin Definition
+#### Connector define :
 ![AIO_3.2_pinout](images/AIO_3.2_pinout.PNG)
-##### microsteps setting：
+#### Microsteps setting : 
 ![AIO_3.2_820_steps](images/AIO_3.2_820_steps.png)
 ## Firmware Guide
-------
+
+### Pre-buids
+
+There is ```AIO-TEST.hex``` pre-build firmware for you to test the board if you can't drive this board with your own firmware.
+
+### Build the firmware
+
+You can follow the following steps to build the firmware your self.
+
 #### Download Vscode + platformio
 
 To compile the firmware , you need to install Visual Studio Code and the platformio pulg-in.
