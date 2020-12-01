@@ -206,7 +206,12 @@ And then go the the firmware.hex file location directory and do the follow comma
  stm32flash -w firmware.hex -v -i rts,-dtr /dev/ttyUSB0
 ```
 
+## Bootloader
+
+If you want to update the firmware from sdcard, you can try this [bootloader.](https://github.com/FYSETC/Bootloader-STM32F103) Follow the README there.
+
 ## Attachments
+
 ------
 - [Schematic files](https://github.com/FYSETC-AIO_II/)
 - [PCB files](https://github.com/FYSETC/FYSETC-AIO_II/)
