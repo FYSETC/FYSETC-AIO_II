@@ -2,16 +2,11 @@
 
 ## Product Introduction
 
-------
-
 ![Cheetah_top](images/AIO_II_TOP.png)
 
 This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-microsteps stepper motor drive for  3DP/CNC or similar machine.It has everything you need to assemble a 3DP, including a display and an SD card holder.
 
 ## Features
-
-------
-
 - Compact size: 105mm x 50mm
 - fully integrated all in one solution:
   - **STM32F103 MCU (Run Marlin 2.0 )**
@@ -29,13 +24,11 @@ This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-micro
   - Gold ENIG finishing
 
 ## Application
-
 - 3D printer 
 - CNC Machines
 - Other similar machines
 
 ## Hardware Reasources
-
 | Board Name           | AIO II                                |
 | -------------------- | ------------------------------------- |
 | License              | GPL V2.0                              |
