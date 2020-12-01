@@ -65,7 +65,7 @@ This is an All In One (So we call it AIO) solution with 32-bit MCU and 256-micro
 
 ### Pre-buids
 
-There is ```AIO-TEST.hex``` pre-build firmware for you to test the board if you can't drive this board with your own firmware.
+There is ```AIO-TEST-ST820.hex``` pre-build firmware for you to test the board if you can't drive this board with your own firmware.
 
 ### Build the firmware
 
@@ -91,7 +91,7 @@ Open Vscode and open platformio main page and click the "Open Project" button , 
 
 If everything goes fine , at the bottom you can see several buttons
 
-![1561099546202](images\AIO_f2.png)
+![1561099546202](images/AIO_f2.png)
 
 The check mark is for compiling .
 
