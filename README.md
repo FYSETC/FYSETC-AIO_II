@@ -77,11 +77,40 @@ To compile the firmware , you need to install Visual Studio Code and the platfor
 
 #### Download firmware
 
-You can download the firmware from https://github.com/FYSETC/Marlin-2.0.x-FYSETC , and if you want to know what we have changed , we recommend to use git to get the code .
+If you download already downloaded this repo, the firmware is in the ```firmware``` folder. If not, you can find it [here](https://github.com/FYSETC/FYSETC-AIO_II/tree/master/firmware/Marlin).
 
-The firmware you download is for Cheetah board in default，you need copy the configuration.h & configuration_adv.h from config/Fysetc/AIO_II to the marlin folder.
+#### Configure the firmware
 
-The latest configurations are in separate repository [here](https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.0.x), you can download and find the config in config/Fysetc/AIO_II folder
+We have three seperated stepper driver module for this AIO_II board, you need to change the config according to different module.
+
+- 4 * ST820
+
+```
+#define X_DRIVER_TYPE  A4988
+#define Y_DRIVER_TYPE  A4988
+#define Z_DRIVER_TYPE  A4988
+#define E0_DRIVER_TYPE A4988
+```
+
+- 4 * TMC2208
+
+```
+#define X_DRIVER_TYPE  TMC2208
+#define Y_DRIVER_TYPE  TMC2208
+#define Z_DRIVER_TYPE  TMC2208
+#define E0_DRIVER_TYPE TMC2208
+```
+
+- 4 * TMC2209
+
+```
+#define X_DRIVER_TYPE  TMC2209
+#define Y_DRIVER_TYPE  TMC2209
+#define Z_DRIVER_TYPE  TMC2209
+#define E0_DRIVER_TYPE TMC2209
+```
+
+*note: The latest configurations are in separate repository [here](https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.0.x), you can download and find the config in config/Fysetc/AIO_II folder.*
 
 #### Compile the firmware
 
