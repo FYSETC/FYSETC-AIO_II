@@ -208,21 +208,18 @@ And then go the the firmware.hex file location directory and do the follow comma
 
 ## Bootloader
 
-If you want to update the firmware from sdcard, you can try this [bootloader.](https://github.com/FYSETC/Bootloader-STM32F103) Follow the README there.
+If you want to update the firmware from sdcard, you can try this [bootloader.](https://github.com/FYSETC/Bootloader-STM32F103) Follow the README there. Or use the pre-build one in ```bootloader``` folder besides this README.
 
 ## Attachments
 
-------
 - [Schematic files](https://github.com/FYSETC-AIO_II/)
 - [PCB files](https://github.com/FYSETC/FYSETC-AIO_II/)
 - [2D and 3D drawings](https://github.com/FYSETC/FYSETC-AIO_II/)
 
 ## Where to Buy
-------
 - [FYSETC AIO II V3.1](https://www.aliexpress.com/item/32888370577.html)
 
 ## Tech Support
--------
-For some reason,, we have to access Facebook via VPN...so our engineers can't reply to your question on Facebook in time, if possible, please ask questions in the forum.
-**Please submit any technical issue into our [forum](http://forum.fysetc.com/)** .
+For some reason,, we have to access Facebook via VPN...so our engineers can't reply to your question on Facebook in time, if possible, please submit issue in the [github](https://github.com/FYSETC/FYSETC-AIO_II/issues) or in our [forum](http://forum.fysetc.com/) .
 
+![](images/info.jpg)
